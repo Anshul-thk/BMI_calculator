@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f9ff296-cd2e-431b-b991-c5572db4ded7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/Calculator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Components/Bottom_Button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Components/Rond_Icon.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Components/reusablecard.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Screens/Results_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/constants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uzjiUOBeRcNqpaUMZyGCl9yzRr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\FlutterProjects\bmi-calculator-flutter\lib\Components" />
+      <recent name="C:\FlutterProjects\bmi-calculator-flutter\lib\Screens" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f9ff296-cd2e-431b-b991-c5572db4ded7" name="Default Changelist" comment="" />
+      <created>1625675438476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625675438476</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="50" y="154" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1625980121582">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="50" y="154" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1280.720@0.0.1280.720" timestamp="1625980121582" />
+    <state x="93" y="93" width="1095" height="535" key="AVDManager" timestamp="1625976772925">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="93" y="93" width="1095" height="535" key="AVDManager/0.0.1280.720@0.0.1280.720" timestamp="1625976772925" />
+    <state width="595" height="172" key="GridCell.Tab.0.bottom" timestamp="1625980189193">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="595" height="172" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1625980189193" />
+    <state width="595" height="172" key="GridCell.Tab.0.center" timestamp="1625980189193">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="595" height="172" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1625980189193" />
+    <state width="595" height="172" key="GridCell.Tab.0.left" timestamp="1625980189191">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="595" height="172" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1625980189191" />
+    <state width="595" height="172" key="GridCell.Tab.0.right" timestamp="1625980189193">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="595" height="172" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1625980189193" />
+    <state x="410" y="304" width="1085" height="502" key="dock-window-1" timestamp="1625677401055">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="410" y="304" width="1085" height="502" key="dock-window-1/0.0.1280.720@0.0.1280.720" timestamp="1625677401055" />
+  </component>
+</project>
